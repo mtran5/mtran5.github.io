@@ -18,18 +18,45 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Minh Tran's Blog
+title: Tran's Blog
 email: minh(dot)tran(dot)2(at)utdallas(dot)edu
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Minh Tran's blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  mtran5
+include: ["_pages"]
+search: true
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      show_date: false
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true   
+      read_time: true
+      share: true
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mtran5"
+  
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.22.0"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
