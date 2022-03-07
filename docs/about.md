@@ -1,12 +1,12 @@
 ---
+layout: page
+title: About
 permalink: /about/
-title: About Me
-
 ---
 
 Hello!
 
-My name is Minh Tran. I'm  a first-year PhD candidate in bioengineering.
+My name is Minh Tran (pronounced *Ming Ch(air)-An*). I'm  a second-year PhD candidate in bioengineering.
 
 I have always been interested in the intersection between human and machine.
 I believe that in the future, we will be intergrated with hardware systems and become a symbiosis.

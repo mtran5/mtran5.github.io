@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title:  "Machine Learning Journey. Part 0 - The story so far"
 date:   2021-04-11 00:18:02 -0500
 type: posts
@@ -65,7 +65,7 @@ Not only my theoretical basis improved, but also did my coding skills. I have fi
 the second assignment in the course and I am currently working on Assigment 3, which deals with 
 Recurrent Neural Network, image captioning, Generative Adversarial Networks, and style transfer. 
 
-{% include video id="6niqTuYFZLQ" provider="youtube" %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6niqTuYFZLQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Resources that I used
 
