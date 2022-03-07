@@ -3,6 +3,9 @@ author:
   name: mtran5
   email: 
 description: > # this means to ignore newlines until "show_excerpts:"
+=======
+email: 
+description: >- # this means to ignore newlines until "baseurl:"
   Welcome to Minh Tran's blog
 
 show_excerpts: false # set to true to show excerpts on the homepage
