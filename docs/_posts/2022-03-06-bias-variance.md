@@ -246,10 +246,10 @@ we have models with low variance but have the risk of high bias.
 The test error rate, which is a summation of both bias and variance terms, will have a characteristic U-shape
  where the lowest point would correspond to where bias and variance have the best tradeoff.
 
-![](/assets/2022-03-07-bias-variance/KNN.png)
+![](/assets/2022-03-07-bias-variance/KNN.PNG)
 *Here, the boundary using $$K = 1$$ is highly varied, while the boundary using $$K = 100$$ is stable. We can say that the variance for $$K = 100$$ is higher than that for $$K = 1$$.[Source: James, Witten, Hastie, and Tibshirani](https://www.statlearning.com/)*
 
-![My helpful screenshot](/assets/2022-03-07-bias-variance/U-KNN.png)
+![My helpful screenshot](/assets/2022-03-07-bias-variance/U-KNN.PNG)
 *The classification rate (accuracy) in the training and test sets using different value of $$K$$. Notice the U-shape in the test set similar to that seen in regression tasks. [Source: James, Witten, Hastie, and Tibshirani](https://www.statlearning.com/)*
 
 # Conclusion
