@@ -65,7 +65,7 @@ Participants performed multiple activities (standing, sitting, walking, lifting 
 I used MATLAB to analyze 20 hours of sensor data taken during various activities. Stepwise forward selection was used to select the most relevant features out of 120 total features.
 Naïve Bayes classifier was used to classify five activities (squatting, slouching, sitting, standing, and walking) with 92.2% accuracy.
 
-![Lift](/assets/about/lift.png)
+![Lift](/assets/about/lift.PNG)
 
 **Technology used**:
 MATLAB, R
