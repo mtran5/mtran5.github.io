@@ -1,17 +1,23 @@
 ---
-layout: post
-title:  "Machine Learning Journey. Part 0 - The story so far"
+title: "How I studied Machine Learning"
 date:   2021-04-11 00:18:02 -0500
-type: posts
-categories: machine-learning
+tags:
+  - machine-learning
+toc: true
+toc_sticky: true
 ---
+
+# Introduction
+
 > "AI is the new electricity"
->> Andrew Ng
+
+-- Andrew Ng
 
 > Our Mission
 > * Fundamentally solve intelligence
 > * Harness it to solve everything else
->> DeepMind
+
+-- DeepMind
 
 I have always been fascinated by the interaction between human and machine. In 1997, the year I was born,
 artificial intelligence scored a major victory when a computer [defeated Garry Kasparov, the 

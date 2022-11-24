@@ -1,11 +1,13 @@
 ---
-layout: post
-title:  "A visual intuition of bias and variance"
+title: "A Visual Intuition of Bias and Variance"
 date:   2022-03-06 21:34:02 -0500
-type: posts
-categories: machine-learning
+tags:
+  - machine-learning
+toc: true
+toc_sticky: true
 usemathjax: true
 ---
+
 
 Bias and variance are two of the most fundamental terms when it comes to statistical modeling, and as such machine learning as well. 
 However, understanding of bias and variance in the machine learning community are somewhat fuzzy, 
