@@ -35,9 +35,9 @@ Python (PyTorch, pandas, OpenCV, PIL, sklearn, matplotlib), AWS, wandb, C++ (Ope
 Implementation of U-Net for various image segmentation and image reconstruction tasks.
 To validate my network, I generated synthesized segmentation data using OpenCV.
 
-![UNet](/assets/about/unet.png)
+![UNet](/assets/about/Unet.png)
 
-![Output](/assets/about/output.png)
+![Output](/assets/about/Output.png)
 
 ***Technology Used*** ⚙️
 Python (PyTorch, OpenCV, PIL, sklearn, matplotlib), 
